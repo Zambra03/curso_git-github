@@ -61,7 +61,8 @@ git add git commit
 
 ## Comandos:
 
-git status -> Para ver el estado y saber en que area se encuentra
+git status -> Para ver el estado y saber en que area se encuentra (muestra lo que esta en el area de trabajo y are de staging)
 git add nombre_archivo -> añade del area de trabajo al area de staging el archivo que se coloque
 git add . -> añade del area de trabajo al area de staging todos los archivos
 git commit -> añade del area de staging al area del reporitorio una version
+git log -> Me muestrael historial de commits (muestra lo que esta en el area del repositorio)
